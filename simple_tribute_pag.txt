@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<style>
+#image {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+</style>
+</head>
+
+<body>
+
+<div id="main">
+<h1 id="title">Sayyed Nasar Ali</h1>
+<div id="img-div">
+<img src="C:\Users\Sayyed\Desktop\SNA.jpg" alt="Tribute-image" id="image">
+<h3 id="img-caption"> A programmer and Writer </h3>
+<div id="tribute-info">
+I am an experienced academic writer. I promise flawless work free of grammatical errors and plagiarism. I pay attention to details and can organise ideas and thoughts in writing to the customers' satisfaction. Based on my extensive expertise and writing talents, I am certain I can provide professional work that will ensure an A+ score. I will continue to produce relevant content to fit your needs.
+</div>
+<a href="https://zws.zarshal-limited.com/" target="_blank" id="tribute-link"> Sayyed's Info Link </a>
+</div>
+
+</body>
+
+</html>
